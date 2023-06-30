@@ -32,7 +32,7 @@ I welcome contributions to this challenge! Feel free to create pull requests if 
 
 ## About Me
 
-I'm an engaged learner and I wanted to enhance my Javascript understanding and wanted to improve. So for that reason, I took this challenge so that I can measure my progress and improvement.
+I'm an engaged learner and I wanted to enhance my Javascript concept understanding and wanted to improve my problem-solving and development skills. So for that reason, I took this challenge.
 
 ## Contact
 

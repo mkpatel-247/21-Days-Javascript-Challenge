@@ -8,25 +8,17 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 
 ## Table of Contents
 
-- [Day 1]()
+- [Day 1](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%201)
 - [Day 2](#day-2)
 
 ## Day 1
 
-Description: Briefly describe the program you created on Day 1.
-Code: Insert a link to the code or provide the code snippet directly.
+Description: Build a Clock using Javascript.
 
 ## Day 2
 
 Description: Briefly describe the program you created on Day 2.
-Code: Insert a link to the code or provide the code snippet directly.
 
-...
-
-## Day 30
-
-Description: Briefly describe the program you created on Day 30.
-Code: Insert a link to the code or provide the code snippet directly.
 
 ## How to Use
 
@@ -40,10 +32,10 @@ I welcome contributions to this challenge! Feel free to create pull requests if 
 
 ## About Me
 
-Share a little bit about yourself and why you're taking this challenge.
+I'm an engaged learner and I wanted to enhance my Javascript understanding and wanted to improve. So for that reason, I took this challenge so that I can measure my progress and improvement.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact me at [LinkedIn](https://in.linkedin.com/in/meet-patel247).
 
 Happy coding! 🎉

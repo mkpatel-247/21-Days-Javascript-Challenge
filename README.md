@@ -9,7 +9,7 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 ## Table of Contents
 
 - [Day 1](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%201)
-- [Day 2](#day-2)
+- [Day 2](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2002)
 
 ## Day 1
 
@@ -17,7 +17,7 @@ Description: Build a Clock using Javascript.
 
 ## Day 2
 
-Description: Briefly describe the program you created on Day 2.
+Description: Random Color generator with a copy-to-clipboard feature using Javascript.
 
 
 ## How to Use

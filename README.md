@@ -11,6 +11,7 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 1](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%201)
 - [Day 2](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2002)
 - [Day 3](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2003)
+- [Day 4](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2004)
 
 ## Day 1
 
@@ -23,6 +24,10 @@ Description: Random Color generator with a copy-to-clipboard feature using Javas
 ## Day 3
 
 Description: Build Digital Clock using Javascript.
+
+## Day 4
+
+Description: Random Password Generator using Javascript.
 
 ## How to Use
 

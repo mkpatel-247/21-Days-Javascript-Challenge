@@ -12,6 +12,8 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 2](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2002)
 - [Day 3](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2003)
 - [Day 4](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2004)
+- [Day 5](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2005)
+  
 
 ## Day 1
 
@@ -28,6 +30,10 @@ Description: Build Digital Clock using Javascript.
 ## Day 4
 
 Description: Random Password Generator using Javascript.
+
+## Day 5
+
+Description: Dynamic Form Fields where we can add and remove fields at runtime using Javascript.
 
 ## How to Use
 

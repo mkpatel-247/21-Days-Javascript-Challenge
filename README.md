@@ -13,6 +13,8 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 3](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2003)
 - [Day 4](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2004)
 - [Day 5](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2005)
+- [Day 6](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2006)
+
   
 
 ## Day 1
@@ -34,6 +36,10 @@ Description: Random Password Generator using Javascript.
 ## Day 5
 
 Description: Dynamic Form Fields where we can add and remove fields at runtime using Javascript.
+
+## Day 6
+
+Description: Build a Number Counter using Javascript.
 
 ## How to Use
 

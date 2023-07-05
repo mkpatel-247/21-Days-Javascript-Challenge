@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  font-family: 'Arvo', serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #111111;
+  color: azure;
+}
+
+.heading {
+  padding-bottom: 50px;
+  font-size: 2.5rem;
+  color: #fff;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+.btn-reset {
+  display: block;
+  margin: 2.5rem auto;
+  padding: 1.25rem;
+  background: #fff;
+  color: #000;
+  border-radius: 1rem;
+  font-size: 20px;
+}
+
+.btn-reset:active {
+  background: rgb(67, 134, 196);
+}
+
+.counter-container {
+  position: relative;
+  width: 100%;
+  max-width: 14rem;
+  height: 14rem;
+  background: #fff;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+}
+
+.counter {
+  font-size: 4rem;
+  color: #000;
+}
+
+.btn-operator {
+  position: absolute;
+  width: 3.8rem;
+  height: 3.8rem;
+  background: #000;
+  color: white;
+  font-size: 1.2rem;
+  border-radius: 3.5rem;
+}
+
+.btn-operator:active {
+  background-color: rgb(67, 134, 196);
+}
+
+.increase {
+  bottom: 10%;
+  right: -15%;
+}
+
+.decrease {
+  bottom: -10%;
+  right: 15%;
+}

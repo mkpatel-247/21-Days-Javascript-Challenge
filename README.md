@@ -15,6 +15,8 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 5](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2005)
 - [Day 6](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2006)
 - [Day 7](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2007)
+- [Day 8](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2008)
+- [Day 9](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2009)
 
   
 
@@ -45,6 +47,14 @@ Description: Build a Number Counter using Javascript.
 ## Day 7
 
 Description: Dice Roll animation developed using Javascript.
+
+## Day 8
+
+Description: Developed an emoji switcher using Javascript.
+
+## Day 9
+
+Description: Build a Color Picker using Javascript.
 
 ## How to Use
 

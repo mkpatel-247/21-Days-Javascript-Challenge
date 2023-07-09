@@ -17,6 +17,7 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 7](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2007)
 - [Day 8](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2008)
 - [Day 9](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2009)
+- [Day 10](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2010)
 
   
 
@@ -55,6 +56,10 @@ Description: Developed an emoji switcher using Javascript.
 ## Day 9
 
 Description: Build a Color Picker using Javascript.
+
+## Day 10
+
+Description: Developed Toast Notification feature using Javascript.
 
 ## How to Use
 

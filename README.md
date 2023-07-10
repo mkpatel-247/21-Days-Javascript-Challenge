@@ -18,6 +18,7 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 8](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2008)
 - [Day 9](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2009)
 - [Day 10](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2010)
+- [Day 11](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2011)
 
   
 

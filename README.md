@@ -19,6 +19,9 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 9](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2009)
 - [Day 10](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2010)
 - [Day 11](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2011)
+- [Day 12](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2012)
+- [Day 13](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2013)
+
 
   
 
@@ -61,6 +64,18 @@ Description: Build a Color Picker using Javascript.
 ## Day 10
 
 Description: Developed Toast Notification feature using Javascript.
+
+## Day 11
+
+Description: Random Joke Generator using Javascript.
+
+## Day 12
+
+Description: Developed a hover animation using Javascript.
+
+## Day 13
+
+Description: Wave effect using Javascript.
 
 ## How to Use
 

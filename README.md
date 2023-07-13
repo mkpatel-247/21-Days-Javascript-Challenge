@@ -21,6 +21,7 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 11](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2011)
 - [Day 12](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2012)
 - [Day 13](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2013)
+- [Day 14](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2014)
 
 
   
@@ -76,6 +77,10 @@ Description: Developed a hover animation using Javascript.
 ## Day 13
 
 Description: Wave effect using Javascript.
+
+## Day 14
+
+Description: Modal Component using Javascript.
 
 ## How to Use
 

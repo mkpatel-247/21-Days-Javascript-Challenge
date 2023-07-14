@@ -83,7 +83,7 @@ Description: Wave effect using Javascript.
 
 Description: Modal Component using Javascript.
 
-## Day 14
+## Day 15
 
 Description: Word Counter using Javascript.
 

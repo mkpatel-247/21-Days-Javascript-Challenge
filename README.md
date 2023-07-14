@@ -1,27 +1,28 @@
-# 30 Days JavaScript Challenge
+# 21 Days JavaScript Challenge
 
-Welcome to my 30 Days JavaScript Challenge! 🚀
+Welcome to my 21 Days JavaScript Challenge! 🚀
 
 ## Overview
 
-In this challenge, I will be writing and uploading a JavaScript program every day for 30 days. Each day's program will cover different topics and concepts, allowing me to improve my JavaScript skills and knowledge.
+In this challenge, I will be writing and uploading a JavaScript program every day for 21 days. Each day's program will cover different topics and concepts, allowing me to improve my JavaScript skills and knowledge.
 
 ## Table of Contents
 
-- [Day 1](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%201)
-- [Day 2](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2002)
-- [Day 3](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2003)
-- [Day 4](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2004)
-- [Day 5](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2005)
-- [Day 6](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2006)
-- [Day 7](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2007)
-- [Day 8](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2008)
-- [Day 9](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2009)
-- [Day 10](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2010)
-- [Day 11](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2011)
-- [Day 12](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2012)
-- [Day 13](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2013)
-- [Day 14](https://github.com/mkpatel-247/30-Days-Javascript-Challenge/tree/main/Day%2014)
+- [Day 1](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%201)
+- [Day 2](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2002)
+- [Day 3](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2003)
+- [Day 4](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2004)
+- [Day 5](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2005)
+- [Day 6](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2006)
+- [Day 7](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2007)
+- [Day 8](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2008)
+- [Day 9](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2009)
+- [Day 10](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2010)
+- [Day 11](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2011)
+- [Day 12](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2012)
+- [Day 13](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2013)
+- [Day 14](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2014)
+- [Day 15](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2015)
 
 
   
@@ -81,6 +82,10 @@ Description: Wave effect using Javascript.
 ## Day 14
 
 Description: Modal Component using Javascript.
+
+## Day 14
+
+Description: Word Counter using Javascript.
 
 ## How to Use
 

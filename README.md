@@ -1,4 +1,4 @@
-# 30 Days JavaScript Challenge
+# 21 Days JavaScript Challenge
 
 Welcome to my 30 Days JavaScript Challenge! 🚀
 

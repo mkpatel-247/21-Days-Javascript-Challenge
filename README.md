@@ -90,7 +90,7 @@ Description: Word Counter using Javascript.
 
 ## Day 16
 
-Description: 
+Description: Search word in paragraph.
 
 ## How to Use
 

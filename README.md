@@ -24,6 +24,7 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 14](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2014)
 - [Day 15](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2015)
 - [Day 16](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2016)
+- [Day 17](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2017)
 
 
   
@@ -91,6 +92,10 @@ Description: Word Counter using Javascript.
 ## Day 16
 
 Description: Search word in paragraph.
+
+## Day 17
+
+Description: Capturing Key Strokes.
 
 ## How to Use
 

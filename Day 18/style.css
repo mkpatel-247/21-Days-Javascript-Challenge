@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arvo', serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #111111;
+    color: #fff;
+}
+
+.heading {
+    padding-bottom: 50px;
+    font-size: 2rem;
+}
+
+.tag-input {
+    position: absolute;
+    width: 500px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    color: #000;
+}
+
+.tag-input .heading {
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.tag-input input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+}
+
+.tag-input .tag-list {
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.tag-input .item {
+    padding: 5px 8px;
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #000;
+    user-select: none;
+}
+
+.tag-input .delete-btn {
+    cursor: pointer;
+}

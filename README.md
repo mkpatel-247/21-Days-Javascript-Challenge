@@ -113,6 +113,14 @@ Description: Find days between two given dates.
 
 Description: Capturing Key Strokes.
 
+## Day 21
+
+Description: Change Background color.
+
+## Day 22
+
+Description: Dark Mode.
+
 ## How to Use
 
 - Clone this repository to your local machine using `git clone`.

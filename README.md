@@ -26,6 +26,9 @@ In this challenge, I will be writing and uploading a JavaScript program every da
 - [Day 16](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2016)
 - [Day 17](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2017)
 - [Day 18](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2018)
+- [Day 19](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2019)
+- [Day 20](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2020)
+- [Day 21](https://github.com/mkpatel-247/21-Days-Javascript-Challenge/tree/main/Day%2021)
 
 
   
@@ -99,6 +102,14 @@ Description: Search word in paragraph.
 Description: Capturing Key Strokes.
 
 ## Day 18
+
+Description: Capturing Key Strokes.
+
+## Day 19
+
+Description: Find days between two given dates.
+
+## Day 20
 
 Description: Capturing Key Strokes.
 

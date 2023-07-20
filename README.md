@@ -103,7 +103,7 @@ Description: Capturing Key Strokes.
 
 ## Day 18
 
-Description: Capturing Key Strokes.
+Description: Tags Input box.
 
 ## Day 19
 
@@ -111,13 +111,9 @@ Description: Find days between two given dates.
 
 ## Day 20
 
-Description: Capturing Key Strokes.
+Description: Backgrounder Color Changer.
 
 ## Day 21
-
-Description: Change Background color.
-
-## Day 22
 
 Description: Dark Mode.
 
